@@ -1,0 +1,13 @@
+pane	work	1	:SDK	0	:	1	:/root/Workspace/Hi3519_SDK_v500/mpp_big-little/component/sdk	1	zsh	:
+pane	work	2	:sample	0	:	1	:/root/Workspace/Hi3519_SDK_v500/mpp_big-little/sample/smart_sample/BT1120	1	zsh	:
+pane	work	3	:firmware	0	:	1	:/root/Workspace/Firmware	1	zsh	:
+pane	work	4	:uboot	0	:M	1	:/root/Workspace/mini-uboot	1	zsh	:
+pane	work	5	:single	0	:-	1	:/root/Workspace/Single_Module	1	zsh	:
+pane	work	6	:share	1	:*	1	:/share	1	zsh	:
+window	work	1	0	:	bffe,183x35,0,0,1
+window	work	2	0	:	bfff,183x35,0,0,2
+window	work	3	0	:	c000,183x35,0,0,3
+window	work	4	0	:M	c001,183x35,0,0,4
+window	work	5	0	:-	c002,183x35,0,0,5
+window	work	6	1	:*	c003,183x35,0,0,6
+state	work	

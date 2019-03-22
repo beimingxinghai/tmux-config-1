@@ -1,0 +1,15 @@
+pane	work	1	:SDK	0	:	1	:/root/Workspace/Hi3519_SDK_v500/mpp_big-little/component/sdk	1	zsh	:zsh
+pane	work	2	:sample	0	:	1	:/root/Workspace/Hi3519_SDK_v500/mpp_big-little/sample/smart_sample/BT1120	1	zsh	:/usr/share/typora/Typora README.md
+pane	work	3	:firmware	0	:-	1	:/root/Workspace/Firmware	1	zsh	:zsh
+pane	work	4	:single	0	:	1	:/root/Workspace/Single_Module/neovim	1	zsh	:zsh
+pane	work	5	:solution	1	:*	1	:/root/Workspace/Solution/sunrise_sdk/BT1120	1	zsh	:zsh
+pane	work	6	:share	0	:	1	:/share	1	zsh	:zsh
+pane	work	7	:C++	0	:M	1	:/share/C++	1	zsh	:zsh
+window	work	1	0	:	cbfe,183x38,0,0,1
+window	work	2	0	:	cbff,183x38,0,0,2
+window	work	3	0	:-	cc00,183x38,0,0,3
+window	work	4	0	:	cc01,183x38,0,0,4
+window	work	5	1	:*	cc02,183x38,0,0,5
+window	work	6	0	:	cc05,183x38,0,0,8
+window	work	7	0	:M	cc06,183x38,0,0,9
+state	work	
